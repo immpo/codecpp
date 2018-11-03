@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+*.command.1.tlog
+*.idb
+*.pdb
+*.tlog
+cpp/wwwitcastcn/itcastcpp/month01/day01/HelloWorld/HelloWorld/Debug/HelloWorld.log
+*.vcxproj
+*.ilk

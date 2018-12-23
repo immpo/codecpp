@@ -1,32 +1,19 @@
-# Prerequisites
 *.d
-
-# Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
-
-# Precompiled Headers
 *.gch
 *.pch
-
-# Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
-
-# Fortran module files
 *.mod
 *.smod
-
-# Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
-
-# Executables
 *.exe
 *.out
 *.app
@@ -34,6 +21,13 @@
 *.idb
 *.pdb
 *.tlog
-cpp/wwwitcastcn/itcastcpp/month01/day01/HelloWorld/HelloWorld/Debug/HelloWorld.log
+*.log
 *.vcxproj
 *.ilk
+*.sdf
+*.suo
+
+
+
+Debug
+*.vcxproj.filters

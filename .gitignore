@@ -31,3 +31,5 @@
 
 Debug
 *.vcxproj.filters
+*.ipch
+cpp/microsoftcom/vs-cpp/cpp-type-system-modern-cpp/.vs/cpp-type-system-modern-cpp/v15/Browse.VC.db
